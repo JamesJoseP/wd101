@@ -1,4 +1,4 @@
-localStorage.clear();
+// localStorage.clear();
 let userForm = document.getElementById("user-form");
 
 const retrieveEntries = () => {
